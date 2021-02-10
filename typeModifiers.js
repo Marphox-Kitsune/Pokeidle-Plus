@@ -69,7 +69,7 @@ var TYPES = {
 		"Normal" : 1,
 		"Fighting" : 1,
 		"Flying" : 2,
-		"Ground" : .25,
+		"Ground" : 0,
 		"Rock" : 1,
 		"Bug" : 1,
 		"Poison" : 1,
@@ -115,7 +115,7 @@ var TYPES = {
 		"Poison" : 2,
 		"Ghost" : 1,
 		"Dragon" : 1,
-		"Dark" : .25,
+		"Dark" : 0,
 		"Steel" : .5,
 		"Fairy" : 1
 	},
@@ -133,7 +133,7 @@ var TYPES = {
 		"Rock" : .5,
 		"Bug" : 1,
 		"Poison" : 1,
-		"Ghost" : .25,
+		"Ghost" : 0,
 		"Dragon" : 1,
 		"Dark" : 1,
 		"Steel" : .5,
@@ -153,7 +153,7 @@ var TYPES = {
 		"Rock" : 2,
 		"Bug" : .5,
 		"Poison" : .5,
-		"Ghost" : .25,
+		"Ghost" : 0,
 		"Dragon" : 1,
 		"Dark" : 2,
 		"Steel" : 2,
@@ -188,7 +188,7 @@ var TYPES = {
 		"Psychic" : 1,
 		"Normal" : 1,
 		"Fighting" : 1,
-		"Flying" : .25,
+		"Flying" : 0,
 		"Ground" : 1,
 		"Rock" : 2,
 		"Bug" : .5,
@@ -256,7 +256,7 @@ var TYPES = {
 		"Ghost" : .5,
 		"Dragon" : 1,
 		"Dark" : 1,
-		"Steel" : .25,
+		"Steel" : 0,
 		"Fairy" : 2
 	},
 	"Ghost" : {
@@ -266,7 +266,7 @@ var TYPES = {
 		"Electric" : 1,
 		"Ice" : 1,
 		"Psychic" : 2,
-		"Normal" : .25,
+		"Normal" : 0,
 		"Fighting" : 1,
 		"Flying" : 1,
 		"Ground" : 1,
@@ -297,7 +297,7 @@ var TYPES = {
 		"Dragon" : 2,
 		"Dark" : 1,
 		"Steel" : .5,
-		"Fairy" : .25
+		"Fairy" : 0
 	},
 	"Dark" : {
 		"Fire" : 1,
